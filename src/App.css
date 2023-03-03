@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+div#html5qr-code-full-region {
+  width: 250px;
+  margin: auto;
+}
